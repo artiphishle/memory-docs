@@ -2,7 +2,7 @@ import { themes as prismThemes } from 'prism-react-renderer';
 import type { Config } from '@docusaurus/types';
 
 const config: Config = {
-  title: 'Memory Game Docs',
+  title: 'Ankhorage Memory Docs',
   tagline: 'Technical architecture and game flow',
   favicon: 'img/favicon.ico',
   
