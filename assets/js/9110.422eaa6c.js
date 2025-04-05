@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmemory_docs=self.webpackChunkmemory_docs||[]).push([[9110],{9110:(e,s,c)=>{c.d(s,{createPieServices:()=>r.f});var r=c(9545);c(9073)}}]);
